@@ -7,7 +7,7 @@
   <link rel="shortcut icon" href="arte-digital.png" type="image/x-icon">
   <title>Gradiente</title>
 </head>
-<body onload="load()">
+<body onload="load()" >
 
   <main>
 
@@ -17,15 +17,12 @@
 
     <div class="color-code">
       <div class="code">
-        <input type="color" value="#a38ed2" class="color" name="code-one" id="cl-code-one">
+        <input type="color" oninput="input()" value="#a38ed2" class="color" name="code-one" id="cl-code-one">
 
         <p id="code-one"></p>
       </div>
-
-      <button onclick="evento()"> Gradiente </button>
-
       <div class="code">
-        <input type="color" value="#f9c1eb" class="color" name="code-two" id="cl-code-two">
+        <input type="color" oninput="input()" value="#f9c1eb" class="color" name="code-two" id="cl-code-two">
         
         <p id="code-two"></p>        
       </div>

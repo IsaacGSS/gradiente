@@ -1,7 +1,7 @@
 var code01 = "#a38ed2"
 var code02 = "#f9c1eb"
 
-function evento(){
+function input(){
   var code01 = document.getElementById('cl-code-one')
   var code02 = document.getElementById('cl-code-two')
 
