@@ -10,9 +10,10 @@
 
 ## 💻 Funcionalidades
 
-> * 2 input <code>type="color"</code>.
-> * Um preview das cores celecionadas em gradiente.
-> * Ao celecionar as cores, em tempo real nós é retornado a gradinete da combinação.
+> * 2 input <code>type="color"</code> 🌈;
+> * Um preview 👀 das cores celecionadas em gradiente ;
+> * Ao celecionar as cores, em tempo real⌚ nós é retornado a gradinete da combinação;
+> * Responsividade 📱;
 
 ## 👀 Preview
  
